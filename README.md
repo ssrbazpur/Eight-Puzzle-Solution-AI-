@@ -1,6 +1,7 @@
 # Eight-Puzzle_Problem (Artificial Intelligence)
  8 puzzle problem using DFS,BFS,IDS,A* with different heuristics.
- https://repl.it/@simranjeetsing5/8puzzleproblem
+ https://repl.it/@simranjeetsing5/8puzzleproblem<br>
+ <hr>
  <img src="https://media.geeksforgeeks.org/wp-content/uploads/puzzle8init.jpg"/>
 <h3> Program Description </h3>
 This implementation is for the Search Algorithms Applied to the 8-Puzzle which
