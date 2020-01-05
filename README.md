@@ -18,9 +18,9 @@ includes the following algorithms:
 <li>
 Iterative Deepening search (IDS) </li>
 <li>
- A* using Manhattan_distance // H = manhattan dist </li>
-<li> A* using Chebyshev_distance // H = 2*C where C is the Chebyshev distance</li>
-<li> A* using Sequence_score // H = totdist + 3*seq </li>
+ A* using Manhattan_distance [H = manhattan dist] </li>
+<li> A* using Chebyshev_distance [H = 2*C where C is the Chebyshev distance] </li>
+<li> A* using Sequence_score [H = totdist + 3*seq] </li>
 <li> Also checks whether puzzle is solvable or not? </li>
 </ol>
 
