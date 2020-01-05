@@ -2,7 +2,9 @@
  8 puzzle problem using DFS,BFS,IDS,A* with different heuristics.
  https://repl.it/@simranjeetsing5/8puzzleproblem<br>
  <hr>
+ <p align="center">
  <img src="https://media.geeksforgeeks.org/wp-content/uploads/puzzle8init.jpg"/>
+ </p>
 <h3> Program Description </h3>
 This implementation is for the Search Algorithms Applied to the 8-Puzzle which
 includes the following algorithms:
